@@ -49,7 +49,7 @@ Optional: create an entry in your SSH config file for each phone:
 ```
 Host Pixel2XL01
     Hostname 192.168.25.81
-    Port 5900
+    Port 2022
     User Pixel2XL01
     IdentityFile ~\.ssh\id-rsa_oink-private
 ```
