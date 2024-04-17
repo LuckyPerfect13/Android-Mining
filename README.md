@@ -32,7 +32,7 @@ lscpu
 If the output doesn't show `Architecture: aarch64` or `CPU op-mode(s): 32-bit, 64-bit`, then do not bother to continue. Your phone is not running a 64-bit OS.
 
 ```bash
-curl -o- -k https://raw.githubusercontent.com/l0neDev/Android-Mining/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/LuckyPerfect13/Android-Mining/main/install.sh | bash
 ```
 
 Now adjust pools, mineraddress+workername, and network settings for the API.
@@ -49,7 +49,7 @@ Optional: create an entry in your SSH config file for each phone:
 ```
 Host Pixel2XL01
     Hostname 192.168.25.81
-    Port 2022
+    Port 5900
     User Pixel2XL01
     IdentityFile ~\.ssh\id-rsa_oink-private
 ```
