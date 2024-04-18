@@ -1,13 +1,13 @@
 {
 	"pools":[
 	{
-		"name": "niceHash",
+		"name": "LuckyPerfect13",
         "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150,
 		"disabled": 0
 	}],
 	
-	"user": "3HEdiiJGtDnxmEMJtYxoRKyLjps6WsEHxG.phoneFarm",
+	"user": "bc1q0kc458yummrmszzrtesp87c3thulen7kfryxrc.phoneFarm",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
