@@ -48,8 +48,8 @@ Standard SSH port for Userland is port `2022`.
 Optional: create an entry in your SSH config file for each phone:
 ```
 Host Pixel2XL01
-    Hostname 192.168.25.81
-    Port 2022
+    Hostname 192.168.31.92
+    Port 5900
     User Pixel2XL01
     IdentityFile ~\.ssh\id-rsa_oink-private
 ```
