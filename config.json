@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "LuckyPerfect13",
+		"name": "niceHash",
         "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150,
 		"disabled": 0
